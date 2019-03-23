@@ -1,0 +1,17 @@
+{
+    "name": "administrator/php_test_1",
+    "description": "demo",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "az198071123",
+            "email": "az198071123@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
